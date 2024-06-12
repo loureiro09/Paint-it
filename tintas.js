@@ -23,8 +23,8 @@ function a(){
     alert("Somos Paint it, uma loja de tintas de qualidade!")
 }
 function b(){
-    alert("Use os botões à direita para testar cores de tinta")
+    alert("Use os botões à direita para testar cores de tinta e veja o resultado na sala abaixo.")
 }
 function c(){
-    alert("Número: (88) 99940-6462")
+    alert("Email: ana.dantas69@aluno.ce.gov.br")
 }

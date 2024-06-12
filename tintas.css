@@ -33,3 +33,10 @@ button:hover{
     text-shadow: darkslategray;
     color: rgba(255, 255, 255, 0.863);
 }
+#i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 500px;
+}
