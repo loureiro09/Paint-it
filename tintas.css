@@ -1,3 +1,6 @@
+h1{
+    color: rgb(36, 36, 36);
+}
 #botao{
     display: flex;
     flex-direction: column;
@@ -37,6 +40,6 @@ button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 99%;
     padding-bottom: 500px;
 }
