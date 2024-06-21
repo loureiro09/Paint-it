@@ -38,8 +38,12 @@ button:hover{
 }
 #i{
     display: flex;
-    justify-content: center;
     align-items: center;
-    width: 99%;
-    padding-bottom: 500px;
+    width: 70%;
+    position: absolute;
+    left: 17%;
+    top: 10%;
+   
 }
+
+   

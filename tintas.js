@@ -26,5 +26,20 @@ function b(){
     alert("Use os botões à direita para testar cores de tinta e veja o resultado na sala abaixo.")
 }
 function c(){
-    alert("Email: ana.dantas69@aluno.ce.gov.br")
+    alert("Email: ana.dantas69@aluno.ce.gov.br ou helen.lima9@aluno.ce.gov.br")
 }
+function ima(){
+    document.querySelector("butao").addEventListener('click',function(){
+    let i = document.getElementById('i');
+    let e = document.getElementById('e');
+
+    if (i.style.display=='block'){
+        i.style.display='block';
+        e.style.display='none';
+
+    } else{
+        i.style.display='none';
+        e.style.display='block';
+    }
+
+})}
